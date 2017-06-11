@@ -1,0 +1,23 @@
+{
+  "name": "mip-inspect",
+  "version": "1.0.0",
+  "description": "Get url of websites which use mip and mip extensions!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wupengFEX/mip-inspect.git"
+  },
+  "keywords": [
+    "mip",
+    "inspect"
+  ],
+  "author": "Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wupengFEX/mip-inspect/issues"
+  },
+  "homepage": "https://github.com/wupengFEX/mip-inspect#readme"
+}
