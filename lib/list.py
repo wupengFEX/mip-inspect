@@ -83,7 +83,6 @@ def handleSession (extensions):
 	for url in params:
 		send(url, extensions)
 	for future in futures:
-		print(future)
 		try:
 			future.result(timeout=3)
 		except:
